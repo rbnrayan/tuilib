@@ -3,7 +3,7 @@
 ## Purpose of the lib
 
 Provide an abstract way to create <b>T</B>ext-Based <b>U</b>ser <b>I</b>nterface.
-The library is build on top of (termion)[https://docs.rs/termion/latest/termion/index.html].
+The library is build on top of [termion](https://docs.rs/termion/latest/termion/index.html).
 
 ### Example
 
